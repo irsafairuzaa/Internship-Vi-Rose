@@ -1,0 +1,10 @@
+^D:\ITS AJA\VI ROSE\TASK2_INTERN_VIROSE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/ITS aja/Vi Rose/task2_intern_virose" "-BD:/ITS aja/Vi Rose/task2_intern_virose/build" --check-stamp-file "D:/ITS aja/Vi Rose/task2_intern_virose/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
