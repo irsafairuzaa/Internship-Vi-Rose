@@ -1,0 +1,10 @@
+^D:\ITS AJA\VI ROSE\TASK2_INTERN_VIROSE\BUILD\CMAKEFILES\BF867443479026B1F4805C20DD619282\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/ITS aja/Vi Rose/task2_intern_virose" "-BD:/ITS aja/Vi Rose/task2_intern_virose/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/ITS aja/Vi Rose/task2_intern_virose/build/MotionProject.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

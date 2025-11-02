@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\ITS aja\Vi Rose\task2_intern_virose\build\CMakeFiles\bf867443479026b1f4805c20dd619282\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{22390E5E-9452-32AA-A58D-0C3AC641979A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
