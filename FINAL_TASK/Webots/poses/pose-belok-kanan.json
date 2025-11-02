@@ -1,0 +1,48 @@
+{
+  "name": "belok-kanan",
+  "description": "parameter pose buat belok kanan",
+  "pose_group": [
+    {
+      "nama": "berdiri-kaki_kanan-belok",
+      "pose": [
+        {
+          "nama": "miring-kiri",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-angkat",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-belok",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-jatuh",
+          "posisi": []
+        }
+      ]
+    },
+    {
+      "nama": "belok-kaki_kiri-berdiri",
+      "pose": [
+        {
+          "nama": "miring-kanan",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kiri-angkat",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-belok",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kiri-jatuh",
+          "posisi": []
+        }
+      ]
+    }
+  ]
+}

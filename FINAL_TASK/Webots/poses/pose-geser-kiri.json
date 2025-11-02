@@ -1,0 +1,48 @@
+{
+  "name": "geser-kiri",
+  "description": "parameter pose buat geser kiri",
+  "pose_group": [
+    {
+      "nama": "berdiri-kaki_kiri-geser",
+      "pose": [
+        {
+          "nama": "miring-kanan-turun",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kiri-angkat",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kiri-geser",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kiri-jatuh-naik",
+          "posisi": []
+        }
+      ]
+    },
+    {
+      "nama": "geser-kaki_kanan-berdiri",
+      "pose": [
+        {
+          "nama": "miring-kiri-turun",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-angkat",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-geser",
+          "posisi": []
+        },
+        {
+          "nama": "kaki_kanan-jatuh",
+          "posisi": []
+        }
+      ]
+    }
+  ]
+}
