@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/ITS aja/Vi Rose/task2_intern_virose/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/MotionProject.dir/includes_CXX.rsp -O2 -g -DNDEBUG -std=gnu++1z -o CMakeFiles\\MotionProject.dir\\main.cpp.obj -c \"D:\\ITS aja\\Vi Rose\\task2_intern_virose\\main.cpp\"",
-  "file": "D:/ITS aja/Vi Rose/task2_intern_virose/main.cpp",
-  "output": "CMakeFiles/MotionProject.dir/main.cpp.obj"
-}
-]

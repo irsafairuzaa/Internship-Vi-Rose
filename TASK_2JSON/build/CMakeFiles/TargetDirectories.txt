@@ -1,3 +1,0 @@
-D:/ITS aja/Vi Rose/task2_intern_virose/build/CMakeFiles/MotionProject.dir
-D:/ITS aja/Vi Rose/task2_intern_virose/build/CMakeFiles/ALL_BUILD.dir
-D:/ITS aja/Vi Rose/task2_intern_virose/build/CMakeFiles/ZERO_CHECK.dir
